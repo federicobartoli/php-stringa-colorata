@@ -1,0 +1,21 @@
+*{
+     font-family: sans-serif;
+}
+
+.green {
+     color: green;
+     font-size: 40px;
+}
+
+.red {
+     color: red;
+     font-size: 40px;
+}
+
+.container {
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     width: 100vw;
+     height: 100vh;
+}
